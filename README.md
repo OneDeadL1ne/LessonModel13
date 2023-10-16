@@ -5,4 +5,5 @@
 
 
 # UML
-![image](https://github.com/OneDeadL1ne/LessonModel13/assets/119927472/3146de32-3b1d-4370-8665-69b47535b23d)
+![image](https://github.com/OneDeadL1ne/LessonModel13/assets/119927472/ff117a6d-839c-437b-8aa7-dc56648456c6)
+
